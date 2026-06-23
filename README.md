@@ -1,3 +1,8 @@
+> [!WARNING]
+> **Research Use Only** — This repository contains adversarial attack techniques capable of defeating computer vision models, including safety-critical systems. Use only in authorized, controlled environments. Read [DISCLAIMER.md](./DISCLAIMER.md) and [LICENSE](./LICENSE) before use. The author assumes no liability for misuse.
+
+---
+
 # Adversarial Patch Pipeline
 
 A comprehensive Python-based proof-of-concept (PoC) for generating adversarial patches capable of bypassing multiple, robust, real-world computer vision pipeline defenses.
@@ -320,4 +325,3 @@ This tool is for **research and educational purposes only**. Use responsibly and
 
 **Version**: 1.0.0  
 **Last Updated**: 2025
-
