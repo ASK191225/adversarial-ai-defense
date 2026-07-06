@@ -44,7 +44,7 @@ This project implements a full-featured adversarial patch system that:
 
 ```bash
 # Clone repository
-git clone https://github.com/ASK92/Adverserial-AI/
+git clone https://github.com/ASK191225/adversarial-ai-defense/
 cd adversarial-patch-pipeline
 
 # Install dependencies
